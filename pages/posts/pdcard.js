@@ -1,6 +1,6 @@
 import { Box, Button, CardContent, Typography, Card, Dialog, DialogContent, Stack, TextField, Container, Avatar} from "@mui/material";
 import React from "react";
-import {firestore} from "../service/firebase.js";
+import {firestore} from "../../service/firebase.js";
 
 
 export default function Home(){

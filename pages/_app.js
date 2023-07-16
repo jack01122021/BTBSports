@@ -9,6 +9,7 @@ function MyApp({ Component, pageProps }) {
     <div>
         <Header/>
   <Component {...pageProps} />
+  
   <Footer/>
 
     </div>

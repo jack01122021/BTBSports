@@ -24,7 +24,13 @@ const categoryList=[
         name:'Badminton',
         image:'Badminton.png'
     },
+    {
+        id:5,
+        name:'Puzzle',
+        image:'Puzzle.png'
+    },
     
+
 
 
 ]
