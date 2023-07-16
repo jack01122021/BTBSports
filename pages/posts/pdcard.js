@@ -57,7 +57,7 @@ export default function Home(){
             <Box>
                 {users.map((users, index) =>{
                     return(
-                        <Card>
+                        <Card key={index}>
                         <CardContent>
                             <Typography>User: {users.firstName} {users.lastName}</Typography>
                             <Typography>Email: {users.email}</Typography>
