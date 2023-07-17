@@ -11,7 +11,7 @@ function footer() {
         </div>
       </div>    
 
-       <div className=' flex gap-3 pt-2 justify-center'>
+       <div className=' flex gap-4 py-2 justify-center'>
         <div className='flex'>
           <img src='./img/facebook.png' alt='fblogo' className='flex justify-center h-10'/>
           <p className='text-[13px] text-serif text-white pt-2'>Facebook: Jackie Jack</p>

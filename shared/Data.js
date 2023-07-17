@@ -29,6 +29,7 @@ const categoryList=[
         name:'Puzzle',
         image:'Puzzle.png'
     },
+
     
 
 
