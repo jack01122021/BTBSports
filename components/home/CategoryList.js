@@ -14,7 +14,7 @@ return (
         <div className='flex flex-col items-center cursor-pointer ' key={index}>
          
             <Image alt='GamesIcon' src={`/img/${game.image}`} width={80} height={70} className=' hover:animate-bounce transitions-all duratin-150'/> 
-            <h2 className='text-[15px] text-center'>{game.name}</h2> 
+            <h2 className='text-[15px] text-center text-white'>{game.name}</h2> 
             
         </div>
       ))}
